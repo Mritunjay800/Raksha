@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "84178587305",
+    "project_id": "raksha-c12ee",
+    "storage_bucket": "raksha-c12ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:84178587305:android:ae5f4ee81d6b38746ce3b8",
+        "android_client_info": {
+          "package_name": "com.vinayak09.wsafety"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "84178587305-6qkqh4kn39upa3tbtupiplsu3rfsb63c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmccFcBPAuIy_EWVTfIpZjWwDPGtzLxNc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "84178587305-6qkqh4kn39upa3tbtupiplsu3rfsb63c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

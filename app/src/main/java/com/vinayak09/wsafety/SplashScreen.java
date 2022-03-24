@@ -13,7 +13,7 @@ public class SplashScreen extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_splash_screen);
 
-        new CountDownTimer(1000,500){
+        new CountDownTimer(1000,1000){
             @Override
             public void onTick(long millisUntilFinished) {
 
@@ -21,7 +21,7 @@ public class SplashScreen extends AppCompatActivity {
 
             @Override
             public void onFinish() {
-                startActivity(new Intent(SplashScreen.this,MainActivity.class));
+                startActivity(new Intent(SplashScreen.this,Register.class));
                 SplashScreen.this.finish();
             }
         }.start();
